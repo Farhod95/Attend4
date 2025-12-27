@@ -1,3 +1,4 @@
+![Console App Demo](Assets/animation.gif)
 # Attend4 Console Application
 
 **Attend4** — bu talabalarning darsga qatnashgan vaqtlarini hisoblaydigan C# Console dasturidir.  
